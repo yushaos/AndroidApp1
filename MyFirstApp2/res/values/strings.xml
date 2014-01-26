@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Add</string>
+    <string name="more_overflow">More</string>
+    <string name="title_activity_add_task">AddTask</string>
+    <string name="edit_first_name">Enter Your First Name</string>
+    <string name="edit_last_name">Enter Your Last Name</string>
+    <string name="Comfirmation_hint">Confirmation Number</string>
+    <string name="addTask_AddButton">Add</string>
+    <string name="AddTask_Com_Num">Comfirmation Number</string>
+    <string name="AddTask_LastName">Last Name</string>
+    <string name="AddTask_FirstName">First Name</string>
+	
+	
+    
+
+</resources>
